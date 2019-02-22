@@ -1,4 +1,4 @@
-# AW-WP
+# WP
 Trabajo de Oscar Blasco. Mi pagina Web
 
 En mi plantilla he conseguido poner un submenu, en tipos de vinos. 
